@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Economics of Innovation | Maastricht University, NL (_September 2020 - Present_)
-Additional course: All-In-One AI Vietnam (_April 2024 - Present_)								       		
+- Additional course: All-In-One AI Vietnam (_April 2024 - Present_)								       		
 - M.A., Public Policy	| Indiana Universty, US (_September 2017 - May 2019_)	 			        		
 - B.S., Business Economics | Foreign Trade University, VN (_September 2010 - July 2014_)
 
@@ -29,20 +29,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
-
-## Work Experience
-**Researcher @ UNU-MERIT, Maastricht University (_September 2020 - Present_)**
-- Conducted analyses of automation’s effects, and government policies' effects, on labor markets and trade, focusing on impact measurement across 53 economies, 3+ million French firms and 4+ million Vietnamese firms
-- Developed and maintained robust data sets and analytical frameworks, managing complex data (firm balanced sheet and tax data, employer-employee data, customs data, firm survey data, patents data, input-output table, labor force surveys data) to support multiple ongoing research projects
-- Communicated complex analytical findings into presentations and reports for academic and policy-making audiences, presented findings to over 100 stakeholders including policymakers and academic leaders in Latin America, Asia, and Europe
-
-**Consultant @ Innovation and Structural Change in Asia - ADB and UNU-MERIT  (_December 2021 - February 2022_)**
-- Analyzed over 50 labor force surveys rounds from 4+ countries to assess economic impacts and structural changes, with relevance to life sciences, climate, and education sectors
-
-**Tutor @ Maastricht Universtiy (_October 2022 - Present_)**
-- Provided tutorial sessions in International Trade and Economics and Society in Asia, engaging with 30+ students per semester, facilitating a deeper understanding of complex economic theories and applications
-- Coordinated with faculty to align tutorial content with lecture material, enhancing the learning experience and helping students achieve an average exam pass rate of 85%
-- Conducted tutorials on research methods and data analysis, equipping students with essential skills for their academic and professional careers, with 90% of participants reporting improved competency in data-driven decision-making
 
 ## Other Writings
 1. [Bridging the Knowledge Chasm: Policy and Academia](https://www.maastrichtuniversity.nl/news/bridging-knowledge-chasm-policy-and-academia), MORSE blog, January 2024. 
