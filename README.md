@@ -3,10 +3,10 @@
 #### Technical Skills: Python, SQL, MATLAB, STATA
 
 ## Education
-- Ph.D., Economics of Innovation | Maastricht University, NL (_September 2020 - Present_)
-- Additional course: All-In-One | AI Vietnam, VN (_April 2024 - Present_)								       		
-- M.A., Public Policy	| Indiana Universty, US (_September 2017 - May 2019_)	 			        		
-- B.S., Business Economics | Foreign Trade University, VN (_September 2010 - July 2014_)
+- Ph.D., Economics of Innovation | Maastricht University, NL (_Sept 2020 - Present_)
+- All-In-One AI | AI Vietnam, VN (_Apr 2024 - Present_)								       		
+- M.A., Public Policy	| Indiana Universty, US (_Sept 2017 - May 2019_)	 			        		
+- B.S., Business Economics | Foreign Trade University, VN (_Sept 2010 - July 2014_)
 
 ## Projects
 ### Special Economic Zones and Firm Performance: Evidence from Vietnam
