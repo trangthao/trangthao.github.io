@@ -1,20 +1,25 @@
-# Data Scientist
+# Data Scientist/ Economist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, STATA
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Economics | Maastricht University and United Nations University, the Netherlands (_September 2020 - Present_)								       		
+- M.S., Public Policy	| Indiana Universty, the United States (_September 2017 - May 2019_)	 			        		
+- B.S., Business Economics | Foreign Trade University, Vietnam (_September 2010 - July 2014_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Researcher @ UNU-MERIT, Maastricht University (_September 2020 - Present_)**
+- Conducted analyses of automation’s effects, and government policies' effects, on labor markets and trade, focusing on impact measurement across 53 economies, 3+ million French firms and 4+ million Vietnamese firms
+- Developed and maintained robust data sets and analytical frameworks, managing complex data (firm balanced sheet and tax data, employer-employee data, customs data, firm survey data, patents data, input-output table, labor force surveys data) to support multiple ongoing research projects
+- Communicated complex analytical findings into presentations and reports for academic and policy-making audiences, presented findings to over 100 stakeholders including policymakers and academic leaders in Latin America, Asia, and Europe
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Consultant @ Innovation and Structural Change in Asia - ADB and UNU-MERIT  (_December 2021 - February 2022_)**
+- Analyzed over 50 labor force surveys rounds from 4+ countries to assess economic impacts and structural changes, with relevance to life sciences, climate, and education sectors
+
+**Tutor @ Maastricht Universtiy (_October 2022 - Present_)**
+- Provided tutorial sessions in International Trade and Economics and Society in Asia, engaging with 30+ students per semester, facilitating a deeper understanding of complex economic theories and applications
+- Coordinated with faculty to align tutorial content with lecture material, enhancing the learning experience and helping students achieve an average exam pass rate of 85%
+- Conducted tutorials on research methods and data analysis, equipping students with essential skills for their academic and professional careers, with 90% of participants reporting improved competency in data-driven decision-making
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -31,25 +36,19 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Posts
+
+
+## Selected Talks
+- 18th East Asian Economic Association International Conference - October 2023
+- Advancing Sustainability of Critical Supply Chains in Developing Countries, Kiel Institute for the World Economy, Germany - September 2023
+- 13th Bari Conference on “Economics of Global Interactions” - September 2023
+- 6th Annual UNCTAD YSI Summer School 2023 - August 2023
+- PILLARS “Labor Market Effects of Automation and Technology Adoption in the Global Economy”  - June, 2023
+- The World Bank and Asia School of Business “Trade and Global Value Chains In Times of Insecurity” - May, 2023
+- European Trade Study Group ETSG 2022 Groningen - September, 2022
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+## Writings
+1. Bridging the Knowledge Chasm: Policy and Academia (MORSE blog, January 2024)
