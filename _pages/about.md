@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuichiro Waki's website"
+title: "Thao Trang Nguyen's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at Department of Economics, Aoyama Gakuin University, and a Honorary Senior Fellow at School of Economics, the University of Queensland. 
+With 4+ years of experience in economics and data science, I specialize in using causal inference and economic principles to solve business challenges. I like using data to answer key questions and value customer focus, collaboration, and growth.
 
-青山学院大学経済学部准教授，クイーンズランド大学名誉シニア・フェロー（Honorary Senior Fellow）
-
-My research interests include macroeconomics, monetary economics, and computational economics. 
-
-**Contact**: ywakiecon@gmail.com
+**Contact**: trangthao.nguyen177@gmail.com
 
 
 
 What's new
 ======
-* [July 2023] A new draft ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) is uploaded.
-* [October 2022] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752) with Ippei Fujiwara is now published at Review of Economic Dynamics. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
-* [June 2022] ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) is now published in Journal of Macroeconomics. 
-
+* [12 Dec 2024] A new blog on Medium ["Understanding measuring long-term effects"](https://medium.com/@thaotrangk49clc3/understanding-measuring-long-term-effects-05764c59970d) is posted.
+* [12 Dec 2024] A new blog on Medium ["Understanding triggered analysis"](https://medium.com/@thaotrangk49clc3/understanding-triggered-analysis-bd52f63d498d) is posted.
+* [12 Dec 2024] A new blog on Medium ["Understanding inference"](https://medium.com/@thaotrangk49clc3/understanding-inference-1cbcfe13b5d7) is posted.
 
 
 
