@@ -1,13 +1,14 @@
 # main links links
 main:
+  - title: "Blog Posts"
+    url: /posts/
+
+  - title: "Side Projects"
+    url: /side-projects/
+    
   - title: "Research"
     url: /my-research/
     
   - title: "CV"
     url: /cv/
-
-  - title: "Side Projects"
-    url: /side-projects/
-
-  - title: "Blog Posts"
-    url: /posts/
+  
