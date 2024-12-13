@@ -10,8 +10,8 @@ redirect_from:
 <hr>
 
 ## Papers
-* [**"Bank Expansion, Firm Performance and Gender Gaps: Evidence from Vietnam"**](/files/Waki_ZeroLiquidityHANK.pdf) 
-* "Commitment vs. Flexibility in New Keynesian Models," draft coming soon.
+* [**"Bank Expansion, Firm Performance and Gender Gaps: Evidence from Vietnam"**](/files/Waki_ZeroLiquidityHANK.pdf)
+  * Submitted to Asian Development Bank Review.   
 * [**"Special Economic Zones and Firm Performance: Evidence from Vietnam"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Karsten Mau and Tania Treibich.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * [**"Automation Adoption and Export Performance: Evidence from French firms"**](/files/Fukushima_Waki.pdf) with Giacomo Domini, Marco Grazzi, Daniele Moschella, and Tania Treibich. 
