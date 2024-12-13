@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "セミナー開催情報"
-permalink: /seminars/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /seminars
-  - /seminar
-  - /seminar/
+  - /research
+  - /research
+  - /research/
 ---
 
 青山学院大学経済学部で開催するセミナー情報です．私が開催に携わっているもののみ掲載しています．
