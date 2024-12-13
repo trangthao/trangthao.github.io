@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<hr>
 
 # PROFESSIONAL ADDRESS  
 **UNU-MERIT, Maastricht University**  
