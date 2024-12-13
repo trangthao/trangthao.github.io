@@ -11,12 +11,12 @@ redirect_from:
 
 <hr>
 
-* [**"Bank Expansion, Firm Performance and Gender Gaps: Evidence from Vietnam"**](/files/Waki_ZeroLiquidityHANK.pdf)
-  * Submitted to Asian Development Bank Review.   
-* [**"Special Economic Zones and Firm Performance: Evidence from Vietnam"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Karsten Mau and Tania Treibich.
-  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
-* [**"Automation Adoption and Export Performance: Evidence from French firms"**](/files/Fukushima_Waki.pdf) with Giacomo Domini, Marco Grazzi, Daniele Moschella, and Tania Treibich. 
-  * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
-* [**"Automation Adoption and Reshoring: Evidence from Asian Input-Output Table"**](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
-  * [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf).
-* [**"Social Network and Economic Development"**](). 
+* [**"Patents Web Scraping"**]
+  * Scraped patent data from the Vietnam Patent Office (2007-2019).
+  * Matched patents with Vietnamese firms using an Entity Matching model and Google API to establish unique linkage between patents and firms.  
+* [**"Customer Churn Prediction"**]
+  * Developed machine learning models to predict customer churn in banking, utilizing various supervised learning algorithms (e.g., Regression, SVM, Random Forest, XGBoost).
+  * Optimized hyperparameters using RandomSearch and GridSearch; achieved best model performance with an accuracy of 0.83, F1-score of 0.62, and ROC AUC of 0.76.
+* [**"Customer Complaints Classification"**]
+  * Developed a classification model for over two million customer complaints regarding financial products, predicting the corresponding product.
+  * Employed multiclass text classification with an attention mechanism, achieving an accuracy of 66.5%.
