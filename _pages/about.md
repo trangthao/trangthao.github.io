@@ -16,6 +16,8 @@ With 4+ years of experience in economics and data science, I specialize in using
 
 What's new
 ======
+* [13 Dec 2024] A new blog on Medium ["Understanding challenges in deploying ML"](https://medium.com/@thaotrangk49clc3/understanding-challenges-in-deploying-ml-31cf58287d51) is posted.
+  * In this post, I summarized the key challenges of running machine learning in practice, from handling data inconsistencies and integrating with existing systems to monitoring model performance after deployment. These insights highlight the complexities of operationalizing ML and offer strategies by other tech firms to address them effectively, ensuring that machine learning systems deliver value in real-world settings.
 * [12 Dec 2024] A new blog on Medium ["Understanding measuring long-term effects"](https://medium.com/@thaotrangk49clc3/understanding-measuring-long-term-effects-05764c59970d) is posted.
   * In this post, I summarized how to measure long-term outcomes in A/B testing. While short-term results are easy to track, they often miss lasting impacts. Three approaches can help: Long-term experiments or holdouts compare groups over time but are slow and costly; Modeling user learning tracks how users adapt to changes, offering better insights into lasting effects; and Surrogate metrics use short-term data to predict long-term outcomes, enabling faster decisions. I also summarized examples from Instacart, Netflix, and LinkedIn to show these methods' benefits and challenges (especially in using surrogate metrics), emphasizing the need to balance speed and accuracy in decision-making.
 * [12 Dec 2024] A new blog on Medium ["Understanding triggered analysis"](https://medium.com/@thaotrangk49clc3/understanding-triggered-analysis-bd52f63d498d) is posted.
