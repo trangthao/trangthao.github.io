@@ -11,6 +11,7 @@ redirect_from:
 
 <hr>
 
+* ["Understanding challenges in deploying ML"](https://medium.com/@thaotrangk49clc3/understanding-challenges-in-deploying-ml-31cf58287d51)
 * ["Understanding measuring long-term effects"](https://medium.com/@thaotrangk49clc3/understanding-measuring-long-term-effects-05764c59970d)
 * ["Understanding triggered analysis"](https://medium.com/@thaotrangk49clc3/understanding-triggered-analysis-bd52f63d498d)
 * ["Understanding inference"](https://medium.com/@thaotrangk49clc3/understanding-inference-1cbcfe13b5d7)
