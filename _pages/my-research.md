@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /my-research/
 author_profile: true
 redirect_from:
-  - /research
-  - /research
-  - /research
+  - /my-research
+  - /my-research
+  - /my-research
 ---
 
 <hr>
