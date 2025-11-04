@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Blog Posts"
-    url: /posts/
-
   - title: "Side Projects"
     url: /side-projects/
     
