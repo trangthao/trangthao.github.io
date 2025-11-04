@@ -1,11 +1,11 @@
 # main links links
-main:
-  - title: "Side Projects"
-    url: /side-projects/
-    
+main:  
   - title: "Research"
     url: /my-research/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Side Projects"
+    url: /side-projects/
   
