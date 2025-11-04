@@ -14,7 +14,7 @@ My research portfolio includes working papers that explore the effects of specia
 
 **Research Interests**: Innovation, Global Value Chains, International Economics, Industrial Policy 
 
-[**CV**]()
+**CV**: Please see my updated [**CV**](/files/CV-TTNguyen.pdf)
 
 **Contact**: trangthao.nguyen177@gmail.com/ tt.nguyen@maastrichtuniversity.nl
 
