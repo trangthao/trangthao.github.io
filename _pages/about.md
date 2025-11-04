@@ -12,7 +12,9 @@ As a PhD Fellow in Economics of Innovation at UNU-MERIT, Maastricht University, 
 
 My research portfolio includes working papers that explore the effects of special economic zones on firm performance in Vietnam, the impact of automation adoption on reshoring and margins of exports, and the relationship between bank expansion and gender gaps in firm performance. My work has been presented at numerous international conferences and seminars, including events hosted by the Kiel Institute for the World Economy, UNCTAD, World Bank, and the European Trade Study Group. I was also honored with an honorable mention for the 2025 ADB-IEA Innovative Policy Research Award.
 
-Research Interests: Innovation, Global Value Chains, International Economics, Industrial Policy 
+**Research Interests**: Innovation, Global Value Chains, International Economics, Industrial Policy 
+
+[**CV**]()
 
 **Contact**: trangthao.nguyen177@gmail.com/ tt.nguyen@maastrichtuniversity.nl
 
