@@ -1,0 +1,43 @@
+/* ==========================================================================
+   CUSTOM STYLES - Layout Adjustments
+   ========================================================================== */
+
+/* Justified text alignment for main content */
+.page__content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Reduce right spacing/padding on large screens */
+.page {
+  @include breakpoint($large) {
+    padding-right: 1em;  /* Reduced from default */
+  }
+  
+  @include breakpoint($x-large) {
+    padding-right: 1.5em;  /* Reduced from default */
+  }
+}
+
+/* Adjust content width to use more of the available space */
+.page__inner-wrap {
+  @include breakpoint($large) {
+    padding-right: 1em;  /* Reduced from default */
+  }
+}
+
+/* Optional: Reduce sidebar width to give more space to content */
+.sidebar {
+  @include breakpoint($large) {
+    width: calc(180px - 1em);  /* Slightly narrower sidebar */
+  }
+  
+  @include breakpoint($x-large) {
+    width: calc(250px - 1em);  /* Slightly narrower sidebar */
+  }
+}
+
+/* Optional: Adjust maximum content width if needed */
+.page__content {
+  max-width: 100%;  /* Use full available width */
+}
