@@ -1,0 +1,124 @@
+/* ==========================================================================
+   CUSTOM STYLES - Layout Adjustments
+   ========================================================================== */
+
+/* Reduce top spacing/margin - AGGRESSIVE */
+.page__hero,
+.page__title,
+h1.page__title {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.initial-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.page__inner-wrap {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Reduce space after masthead/navigation */
+.masthead {
+  margin-bottom: 0 !important;
+  padding-bottom: 0.5em !important;
+}
+
+.masthead__inner-wrap {
+  padding: 0.5em 1em !important;  /* Reduce top/bottom padding */
+}
+
+.greedy-nav {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Justified text alignment for main content */
+.page__content {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Reduce right spacing/padding on large screens */
+.page {
+  @include breakpoint($large) {
+    padding-right: 1em;  /* Reduced from default */
+  }
+  
+  @include breakpoint($x-large) {
+    padding-right: 1.5em;  /* Reduced from default */
+  }
+}
+
+/* Adjust content width to use more of the available space */
+.page__inner-wrap {
+  @include breakpoint($large) {
+    padding-right: 1em;  /* Reduced from default */
+  }
+}
+
+/* Optional: Reduce sidebar width to give more space to content */
+.sidebar {
+  @include breakpoint($large) {
+    width: calc(180px - 1em);  /* Slightly narrower sidebar */
+  }
+  
+  @include breakpoint($x-large) {
+    width: calc(250px - 1em);  /* Slightly narrower sidebar */
+  }
+}
+
+/* Optional: Adjust maximum content width if needed */
+.page__content {
+  max-width: 100%;  /* Use full available width */
+}
+
+/* ========================================================================== 
+   FIX FOR ARCHIVE PAGES (Research, CV, Side Projects, etc.)
+   ========================================================================== */
+
+/* Reduce top spacing for archive pages - AGGRESSIVE */
+.archive {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.archive__item-title {
+  margin-top: 0.5em;  /* Less space above titles */
+}
+
+.archive .page__title {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Apply justified text to archive content */
+.archive__item-excerpt,
+.archive__item p,
+.list__item p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Reduce spacing in archive lists */
+.list__item {
+  margin-bottom: 1em;  /* Reduced from default */
+}
+
+/* Apply to page titles on all pages */
+h1.page__title {
+  margin-top: 0;
+  padding-top: 0;
+}
