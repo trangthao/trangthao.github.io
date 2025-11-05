@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thao Trang Nguyen"
 title_separator          : "-"
 name                     : &name "Thao Trang Nguyen"
-description              : &description "Data Scientist, Economist"
+description              : &description "Economist"
 url                      : https://trangthao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thao Trang Nguyen"
   avatar           : "ThaoTrangNguyen_profilephoto.jpg"
-  bio              : "Data Scientist, Economist"
+  bio              : "Economist"
   location         : "Netherlands"
   employer         : 
   pubmed           : 
