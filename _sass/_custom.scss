@@ -30,6 +30,15 @@ h1.page__title {
   padding-top: 0 !important;
 }
 
+/* Override the default 2em margin-top from _page.scss */
+body #main {
+  margin-top: 0 !important;
+}
+
+.initial-content #main {
+  margin-top: 0 !important;
+}
+
 /* Reduce space after masthead/navigation */
 .masthead {
   margin-bottom: 0 !important;
